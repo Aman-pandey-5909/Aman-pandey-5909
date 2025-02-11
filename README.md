@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/Aman-pandey-5909/Api-For-ImageUpload">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-pandey-5909&repo=YourRepo&theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-pandey-5909&repo=Api-For-ImageUpload&theme=radical" />
   </a>
 </p>
 
