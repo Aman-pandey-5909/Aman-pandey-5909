@@ -65,10 +65,10 @@
 ### 📌 Featured Projects
 
 - 🎬 [KnowAMovie](https://github.com/Aman-pandey-5909/KnowAMovie)  
-  A slick movie search and discovery app powered by APIs and built with love.
+  A slick movie search and discovery app powered by OMDb API and built with love.
 
 - 🖼️ [Pictomangle](https://github.com/Aman-pandey-5909/pictomangle)  
-  Image editing and transformation tool for the web.
+  Basic Image processing and handling package built using Nodejs and Sharp.
 
 ---
 
