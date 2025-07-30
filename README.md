@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Aman-pandey-5909)
+<center>![](https://komarev.com/ghpvc/?username=Aman-pandey-5909)</center>
 <h1 align="center">Hey there, I'm Aman Pandey 👋</h1>
 <p align="center">
   <img src="./aman.png" alt="Aman Pandey's Profile Picture"  />
